@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    border-radius: 20px;
+    background-color: #f7f2f2;
+    padding: 5px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+    background: #5b5b66;
+
+}
+
+.card {
+    padding: 100px;
+}
+
+h3 {
+    text-transform: capitalize;
+    margin-top: 8%;
+    margin-bottom: 8%;
+    background-color: #b1b1b8;
+}
+
+h4 {
+    margin-top: 5%;
+}
